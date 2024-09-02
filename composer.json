@@ -1,5 +1,5 @@
 {
-    "name": "ayman-elmalah/laravel-myfatoorah",
+    "name": "thethree/myfatoorah",
     "description": "My fatoorah api wrapper ",
     "type": "library",
     "license": "MIT",
@@ -15,8 +15,6 @@
         "ext-curl": "*",
         "ext-json": "*",
         "guzzlehttp/guzzle": "^6.0|^7.0",
-        "illuminate/http": "^6.0|^7.0|^8.0|^9.0",
-        "illuminate/support": "^6.0|^7.0|^8.0|^9.0"
     },
     "autoload": {
         "psr-4": {
